@@ -26,7 +26,7 @@ CityNews is a news Application in which folllowing functionality are included<br
   <img src="https://user-images.githubusercontent.com/55200919/134335777-b41332cb-9800-46e8-abd9-550f7af246cc.png" width="400"/>
 </p>
    
-<!--    Reason- 
+    Reason- 
    <li>It ensures our UI matches your data state
    <li>No memory leaks
    <li>Sharing resources
@@ -34,7 +34,7 @@ CityNews is a news Application in which folllowing functionality are included<br
    <li>No more manual lifecycle handling
    <li>Always up to date data
   
-<br> -->
+<br> 
 
 
 🟢 Recyler View With Swap Functionality
